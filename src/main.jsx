@@ -27,10 +27,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             }
           />
 
-          {/* Loja (pública) */}
           <Route path="produtos" element={<Produtos />} />
 
-          {/* Painel administrativo (protegido) */}
           <Route
             path="dashboard/produtos"
             element={

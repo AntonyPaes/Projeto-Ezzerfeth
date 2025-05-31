@@ -15,7 +15,8 @@ export default function App() {
     <div className="app-layout">
       {isLoggedIn && (
         <div className="sidebar">
-          <h2>Peças</h2>
+          <img src="public/images/logo_ecomerce.jpeg" alt="Usuário" />
+          <h2>E-Commerce</h2>
           <nav>
             <ul>
               <li>
