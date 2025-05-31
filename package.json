@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "entrega5s",
-=======
   "name": "atv2804",
->>>>>>> 477aebd7f1a136be270118f36fd7caa396abad16
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-<<<<<<< HEAD
     "preview": "vite preview",
     "server": "json-server db.json --port 3000",
     "dev:all": "concurrently \"npm run dev\" \"npm run server\""
@@ -20,8 +15,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router": "^7.6.1",
-    "react-router-dom": "^7.6.1"
-=======
+    "react-router-dom": "^7.6.1",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -33,17 +27,13 @@
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.5.3"
->>>>>>> 477aebd7f1a136be270118f36fd7caa396abad16
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
-<<<<<<< HEAD
     "concurrently": "^9.1.2",
-=======
->>>>>>> 477aebd7f1a136be270118f36fd7caa396abad16
     "eslint": "^9.21.0",
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
